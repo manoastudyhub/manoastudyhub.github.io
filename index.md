@@ -12,6 +12,6 @@ The goals that our group has for this project involves: gaining experience worki
 
 ## Manoa Study Hub
 
-
+Manoa Study Hub will eventually provide a platform for students to organize study groups with each other while having in-person interactions in order to work on assignments, projects, or to prepare for tests. 
 
 ## Mock-Up Pages
