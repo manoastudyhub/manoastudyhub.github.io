@@ -59,5 +59,7 @@ The goals that our group has for this project involves: gaining experience worki
 Some skills that I would like to develop through working on this project would be to gain experience with working in groups. I would also like to enhance my skills of working with Meteor, Github, and Javascript. Some skills that I bring to the team are that I am acquainted with the concepts and areas that we have covered throughout this course.
 
 
+<img class="ui medium left floated image" src="/images/Ty.jpg" width="200">
+**Ty Yamasaki**
 
-
+What I hope to gain most by working on this project is experience working with a larger project with multiple team members, specifically with how to cooperate and communicate effectively and how to work with others through Github. I also want to improve my ability to work with Meteor and React. In terms of skillsets, I am capable of working with any of the material that was covered during the class.
