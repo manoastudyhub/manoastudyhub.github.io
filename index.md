@@ -22,4 +22,4 @@ The goals that our group has for this project involves: gaining experience worki
 
 ### Team Bios
 
-<img class="ui medium left floated image" src="/Tyler.jpg" width="263" height="236">
+
