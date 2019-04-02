@@ -14,6 +14,37 @@ Manoa Study Hub will eventually provide a platform for students to organize stud
 
 ## Mock-Up Pages
 
+Brief mock ups are provided for the pages that we plan to implement during Milestone 1.
+
+Landing Page
+
+<img class="ui medium left floated image" src="/images/landing.JPG" width="300">
+
+Student Homepage
+
+<img class="ui medium left floated image" src="/images/student-homepage.JPG" width="300">
+
+Admin Homepage
+
+<img class="ui medium left floated image" src="/images/admin-homepage.JPG" width="300">
+
+User Profile Page
+
+<img class="ui medium left floated image" src="/images/user-profile-page.JPG" width="300">
+
+Calendar
+
+<img class="ui medium left floated image" src="/images/calendar.JPG" width="300">
+
+Create Study Sesh Page
+
+<img class="ui medium left floated image" src="/images/create-study-sesh.JPG" width="300">
+
+Study Sesh Page
+
+<img class="ui medium left floated image" src="/images/study-sesh.JPG" width="300">
+
+
 ## Team
 
 ### Goals
