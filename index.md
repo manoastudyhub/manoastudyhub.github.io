@@ -22,4 +22,10 @@ The goals that our group has for this project involves: gaining experience worki
 
 ### Team Bios
 
-<img class="ui medium left floated image" src="/Tyler.jpg" width="200">
+<img align="left" src="/Tyler.jpg" width="200">
+Tyler Chinen
+Some skills that I would like to develop through working on this project would be to gain experience with working in groups. I would also like to enhance my skills of working with Meteor, Github, and Javascript. Some skills that I bring to the team are that I am acquainted with the concepts and areas that we have covered throughout this course.
+
+
+
+
