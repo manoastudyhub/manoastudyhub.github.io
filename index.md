@@ -12,7 +12,13 @@
 
 Manoa Study Hub will eventually provide a platform for students to organize study groups with each other while having in-person interactions in order to work on assignments, projects, or to prepare for tests. 
 
-## Mock-Up Pages
+## Milestone 1
+
+This Milestone began on April 1, 2019 and will end on April 10, 2019.
+
+The goals of this Milestone include creating mock up pages, utilizing Github issues and GitHub projects to help manage the development process for this project, and learning how to deploy Galaxy (which has yet to be implemented).
+
+### Mock-Up Pages
 
 Brief mock ups are provided for the pages that we plan to implement during Milestone 1.
 
@@ -44,6 +50,19 @@ Study Sesh Page
 
 <img class="ui medium left floated image" src="/images/study-sesh-mockup.JPG" width="400">
 
+### Utilizing Github Issues
+
+In Milestone 1 we implemented the issues as shown below:
+
+<img class="ui medium left floated image" src="/images/milestone1.JPG" width="650">
+
+So far, in Milestone 1, we created and resloved 10 issues that dealt with creating the mockup pages. These issues were monitored through the "Project M1":
+
+<img class="ui medium left floated image" src="/images/github-issues-progress.JPG" width="650">
+
+Each Issue was implemented in it's own branch and will be merged with the master:
+
+<img class="ui medium left floated image" src="/images/github-branches.JPG" width="650">
 
 ## Team
 
