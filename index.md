@@ -56,7 +56,7 @@ In Milestone 1 we implemented the issues as shown below:
 
 <img class="ui medium left floated image" src="/images/milestone1.JPG" width="650">
 
-So far, in Milestone 1, we created and resloved 10 issues that dealt with creating the mockup pages. These issues were monitored through the "Project M1":
+So far, in Milestone 1, we created and resloved 10 issues that dealt with creating the mockup pages and the basis of our site's collections. These issues were monitored through the "Project M1":
 
 <img class="ui medium left floated image" src="/images/github-issues-progress.JPG" width="650">
 
