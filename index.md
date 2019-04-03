@@ -30,7 +30,7 @@ Admin Homepage
 
 User Profile Page
 
-<img class="ui medium left floated image" src="/images/userprofilemockup.PNG" width="300">
+<img class="ui medium left floated image" src="/images/userprofilemockup.PNG" width="400">
 
 Calendar
 
