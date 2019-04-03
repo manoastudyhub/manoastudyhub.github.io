@@ -38,11 +38,11 @@ Calendar
 
 Create Study Sesh Page
 
-<img class="ui medium left floated image" src="/images/add-study-sesh-mockup.JPG" width="300">
+<img class="ui medium left floated image" src="/images/add-study-sesh-mockup.JPG" width="400">
 
 Study Sesh Page
 
-<img class="ui medium left floated image" src="/images/study-sesh-mockup.JPG" width="300">
+<img class="ui medium left floated image" src="/images/study-sesh-mockup.JPG" width="400">
 
 
 ## Team
