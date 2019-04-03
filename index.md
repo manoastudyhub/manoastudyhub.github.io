@@ -74,3 +74,8 @@ I’m familiar with all the topics we’ve learned throughout the semester such 
 
 With this, project, I hope to develop skills in time management and coordinating myself in a group coding environment.  I am familiar with a handful of the concepts covered in class and I hope to contribute with what I learned throughout the semester.
 
+<img class="ui medium left floated image" src="/images/maxDeyoProfilePic.jpg" width="200">
+**Max Deyo**
+
+Over the course of this project I hope to gain experience working in a team, using Github for version control and task management and managing time and deadlines. I also hope to further develop my skills working with Javascript, React, HTML/CSS and Meteor.
+
