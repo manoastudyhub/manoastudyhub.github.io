@@ -68,3 +68,9 @@ What I hope to gain most by working on this project is experience working with a
 **Angeli Amascual**
 
 I’m familiar with all the topics we’ve learned throughout the semester such as Javascript, html, react, semantic ui, meteor, etc. I wish to gain experience with working as a group. From this I hope to learn about task distribution amongst members in a team, time management and deadline awareness for completing tasks, and learning how to reconvene with fellow team members in order to produce a single project.
+
+<img class="ui medium left floated image" src="/images/lance.jpg" width="200">
+**Lance Hwang**
+
+With this, project, I hope to develop skills in time management and coordinating myself in a group coding environment.  I am familiar with a handful of the concepts covered in class and I hope to contribute with what I learned throughout the semester.
+
