@@ -3,7 +3,9 @@
 ## Table of Contents
 
 1. [About Manoa Study Hub](#About-Manoa-Study-Hub)
-2. [Mock Up Pages](#Mock-Up-Pages)
+2. [Milestone 1](#Milestone-1)
+    2. [Mock-Up Pages](#Mock-Up-Pages)
+    2. [Utilizing Github Issues](#Utilizing-Github-Issues)
 3. [Team](#Team)
     3. [Goals](#Goals)
     4. [Team Bios](#Team-Bios)
