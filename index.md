@@ -63,3 +63,8 @@ Some skills that I would like to develop through working on this project would b
 **Ty Yamasaki**
 
 What I hope to gain most by working on this project is experience working with a larger project with multiple team members, specifically with how to cooperate and communicate effectively and how to work with others through Github. I also want to improve my ability to work with Meteor and React. In terms of skillsets, I am capable of working with any of the material that was covered during the class.
+
+<img class="ui medium left floated image" src="/images/angeli.jpg" width="200">
+**Angeli Amascual**
+
+I’m familiar with all the topics we’ve learned throughout the semester such as Javascript, html, react, semantic ui, meteor, etc. I wish to gain experience with working as a group. From this I hope to learn about task distribution amongst members in a team, time management and deadline awareness for completing tasks, and learning how to reconvene with fellow team members in order to produce a single project.
