@@ -18,7 +18,7 @@ Brief mock ups are provided for the pages that we plan to implement during Miles
 
 Landing Page
 
-<img class="ui medium left floated image" src="/images/landing.JPG" width="300">
+<img class="ui medium left floated image" src="/images/landingpage.jpg" width="300">
 
 Student Homepage
 
