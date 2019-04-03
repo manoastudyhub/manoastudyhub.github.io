@@ -22,7 +22,7 @@ Landing Page
 
 Student Homepage
 
-<img class="ui medium left floated image" src="/images/student-homepage.JPG" width="300">
+<img class="ui medium left floated image" src="/images/UserHomeMockup.PNG" width="300">
 
 Admin Homepage
 
