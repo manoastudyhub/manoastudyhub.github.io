@@ -19,40 +19,38 @@ Manoa Study Hub will eventually provide a platform for students to organize stud
 ## Developer Guide
 
 ### Installation
-<ol>
-  <li>In order to begin using the application you will need to 
-    <a href="https://www.meteor.com/install"> install Meteor </a>
-  </li>
-  <li>Next, you will need to 
-    <a href="https://github.com/tylerchinen/digits">download a copy of digits</a>. 
-  You should note that the digits repo is private and that you will need to request permission from the author in order to access the repo.
-  </li>
-  <li>Then, in the command prompt you will need to cd into the app directory (within the digits file) and install the Meteor library as follows: 
+
+1. In order to begin using the application you will need to <a href="https://www.meteor.com/install"> install Meteor </a>
+
+2. Next, you will need to <a href="https://github.com/tylerchinen/digits">download a copy of digits</a>. 
+You should note that you may need to request permission from the authors in order to access the repo.
+
+3. Then, in the command prompt you will need to cd into the app directory (within the digits file) and install the Meteor library as follows: 
     <p>
       <code> meteor npm install </code>
     </p>
-  </li>
-  <li>After Meteor has been installed, you can then run the application by using:
+ 
+4. After Meteor has been installed, you can then run the application by using:
     <p>
       <code>meteor npm run start</code>
     </p>
-  </li>
-  <li>After the app runs for the first time, it will create some default data and users. The output should look as follows:
+
+ 5. After the app runs for the first time, it will create some default data and users. The output should look as follows:
     <p>
       <img src="/images/meteorfirstrun.JPG" alt="meteor first run image" width="470" height="315">
     </p>
     <p>
       *It is important to note that there is a <b>bcrypt warning</b> which will try to encourage you to use bcrypt. However it is more difficult to install bcrypt with Windows operating systems. Bcrypt is unneccesary for the purposes that we are using for so it is okay to just ignore this warning, it will not interfere with the use of the application.
     </p>
-  </li>
-  <li>If there are no errors, the template application will appear at <a href="http://localhost:3000/">http://localhost:3000/</a>. You can then login by using one of the default accounts at <a href="https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json">settings.development.json</a> </li>
-  <li>You can also use ESLint in the imports directory to check for general errors by using:
+ 
+6. If there are no errors, the template application will appear at <a href="http://localhost:3000/">http://localhost:3000/</a>. You can then login by using one of the default accounts at <a href="https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json">settings.development.json</a> </li>
+
+7.You can also use ESLint in the imports directory to check for general errors by using:
     <p>
       <code>
         meteor npm run lint
       </code>
     </p>
-  </li>
 
 ## Milestone 1
 
