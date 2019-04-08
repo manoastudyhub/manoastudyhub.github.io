@@ -3,18 +3,22 @@
 ## Table of Contents
 
 1. [About Manoa Study Hub](#About-Manoa-Study-Hub)
-2. [Milestone 1](#Milestone-1)
-    2. [Mock-Up Pages](#Mock-Up-Pages)
-    2. [Utilizing Github Issues](#Utilizing-Github-Issues)
-3. [Team](#Team)
-    3. [Goals](#Goals)
+2. [Developer Guide](#Developer-Guide)
+    2. [Installation](#Installation)
+3. [Milestone 1](#Milestone-1)
+    3. [Mock-Up Pages](#Mock-Up-Pages)
+    3. [Utilizing Github Issues](#Utilizing-Github-Issues)
+4. [Team](#Team)
+    4. [Goals](#Goals)
     4. [Team Bios](#Team-Bios)
 
 ## About Manoa Study Hub
 
 Manoa Study Hub will eventually provide a platform for students to organize study groups with each other while having in-person interactions in order to work on assignments, projects, or to prepare for tests. 
 
-## Installation
+## Developer Guide
+
+### Installation
 <ol>
   <li>In order to begin using the application you will need to 
     <a href="https://www.meteor.com/install"> install Meteor </a>
