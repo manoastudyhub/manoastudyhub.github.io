@@ -39,7 +39,7 @@ Manoa Study Hub will eventually provide a platform for students to organize stud
   </li>
   <li>After the app runs for the first time, it will create some default data and users. The output should look as follows:
     <p>
-      <img src="doc/meteorfirstrun.JPG" alt="meteor first run image" width="470" height="315">
+      <img src="/images/meteorfirstrun.JPG" alt="meteor first run image" width="470" height="315">
     </p>
     <p>
       *It is important to note that there is a <b>bcrypt warning</b> which will try to encourage you to use bcrypt. However it is more difficult to install bcrypt with Windows operating systems. Bcrypt is unneccesary for the purposes that we are using for so it is okay to just ignore this warning, it will not interfere with the use of the application.
