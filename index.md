@@ -35,7 +35,7 @@ You should note that you may need to request permission from the authors in orde
       <code>meteor npm run start</code>
     </p>
 
- 5. After the app runs for the first time, it will create some default data and users. The output should look as follows:
+5. After the app runs for the first time, it will create some default data and users. The output should look as follows:
     <p>
       <img src="/images/meteorfirstrun.JPG" alt="meteor first run image" width="470" height="315">
     </p>
@@ -46,11 +46,9 @@ You should note that you may need to request permission from the authors in orde
 6. If there are no errors, the template application will appear at <a href="http://localhost:3000/">http://localhost:3000/</a>. You can then login by using one of the default accounts at <a href="https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json">settings.development.json</a>.
 
 7.You can also use ESLint in the imports directory to check for general errors by using:
-    <p>
       <code>
         meteor npm run lint
       </code>
-    </p>
 
 ## Milestone 1
 
