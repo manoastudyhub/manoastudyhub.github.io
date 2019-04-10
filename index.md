@@ -65,7 +65,7 @@ Calendar - Not yet deployed to Galaxy
 
 <a href="http://manoastudyhub.meteorapp.com/#/add">Add Study Sesh Page</a>
 
-<img class="ui medium left floated image" src="/images/add-study-sesh-mockup2.JPG" width="400">
+<img class="ui medium left floated image" src="/images/addstudysesh-deployed.JPG" width="400">
 
 <a href="http://manoastudyhub.meteorapp.com/#/studyList">Study Sesh Page</a>
 
@@ -83,9 +83,7 @@ In Milestone 1, we also created and resloved 13 issues that dealt with creating 
 
 Each Issue was implemented in it's own branch and was merged with the master:
 
-<img class="ui medium left floated image" src="/images/github-branches.JPG" width="650">
-
-## Milestone 2
+<a href="https://github.com/manoastudyhub/code-directory/network"><img class="ui medium left floated image" src="/images/github-merged.JPG" width="650"></a>
 
 ## Team
 
