@@ -5,9 +5,10 @@
 1. [About Manoa Study Hub](#About-Manoa-Study-Hub)
 2. [Developer Guide](#Developer-Guide)
     2. [Installation](#Installation)
-3. [Milestone 1](#Milestone-1)
-    3. [Mock-Up Pages](#Mock-Up-Pages)
-    3. [Utilizing Github Issues](#Utilizing-Github-Issues)
+3. [Development History](#Development-History)
+    3. [Milestone 1](#Milestone-1)
+        3. [Mock-Up Pages](#Mock-Up-Pages)
+        3. [Utilizing Github Issues](#Utilizing-Github-Issues)
 4. [Team](#Team)
     4. [Goals](#Goals)
     4. [Team Bios](#Team-Bios)
@@ -50,13 +51,19 @@ You should note that you may need to request permission from the authors in orde
         meteor npm run lint
       </code>
 
-## Milestone 1
+## Development History
 
-This Milestone began on April 1, 2019 and will end on April 10, 2019.
+Throughout the development process, we conformed to the <a href="http://courses.ics.hawaii.edu/ics314f16/morea/project-management/reading-guidelines-idpm.html">Issue Driven Project Management (IDPM)</a> guidelines. In summary, this means that the team effectively communicated with each other at least twice a week, milestones were accomplished in sets of tasks that were divided into approximately 2-3 days of work which were assigned in <a href="https://github.com/manoastudyhub/code-directory/projects">github projects</a> as issues. Each team member is ultimately responsible for at least 2 issues during each milestone and must have them completed before the deadlines.
 
-The goals of this Milestone include creating mock up pages, utilizing Github issues and GitHub projects to help manage the development process for this project, and learning how to deploy Galaxy (which has yet to be implemented).
+The development history of Manoa Study Hub is shown in the following milestone sections.
 
-### Mock-Up Pages
+### Milestone 1
+
+This Milestone began on April 1, 2019 and ended on April 10, 2019.
+
+The goals of this Milestone included creating mock up pages, utilizing Github projects and issues to help manage the development process for this project, and learning how to deploy our project to Galaxy.
+
+#### Mock-Up Pages
 
 Brief mock ups are provided for the pages that we plan to implement during Milestone 1.
 
@@ -88,7 +95,7 @@ Study Sesh Page
 
 <img class="ui medium left floated image" src="/images/study-sesh-mockup.JPG" width="400">
 
-### Utilizing Github Issues
+#### Utilizing Github Issues
 
 In Milestone 1 we implemented the issues as shown below:
 
