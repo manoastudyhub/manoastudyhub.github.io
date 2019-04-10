@@ -7,6 +7,8 @@
     2. [Milestone 1](#Milestone-1)
         2. [Mock-Up Pages](#Mock-Up-Pages)
         2. [Utilizing Github Issues](#Utilizing-Github-Issues)
+    2. [Milestone 2](#Milestone-2)
+        2. [Project 2](#Project-2)
 4. [Team](#Team)
     4. [Goals](#Goals)
     4. [Team Bios](#Team-Bios)
@@ -84,6 +86,12 @@ In Milestone 1, we also created and resloved 13 issues that dealt with creating 
 Each Issue was implemented in it's own branch and was merged with the master:
 
 <a href="https://github.com/manoastudyhub/code-directory/network"><img class="ui medium left floated image" src="/images/github-merged.JPG" width="650"></a>
+
+### Milestone 2
+    
+Our work on Milestone 2 started on 4/8 and is still in progress. So far we have created a [M2 project](https://github.com/manoastudyhub/code-directory/projects/2) which contains all of the issues we'll be working on for Milestone 2.
+
+###
 
 ## Team
 
