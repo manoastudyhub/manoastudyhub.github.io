@@ -67,7 +67,7 @@ Calendar - Not yet deployed to Galaxy
 
 <img class="ui medium left floated image" src="/images/addstudysesh-deployed.JPG" width="400">
 
-<a href="http://manoastudyhub.meteorapp.com/#/studyList">Study Sesh Page</a>
+<a href="http://manoastudyhub.meteorapp.com/#/studyList">List Study Sesh Page</a>
 
 <img class="ui medium left floated image" src="/images/liststudysesh-deployed.JPG" width="400">
 
