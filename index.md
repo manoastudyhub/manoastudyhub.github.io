@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-1. [About Manoa Study Hub](#About-Manoa-Study-Hub)
-2. [Development History](#Development-History)
-    2. [Milestone 1](#Milestone-1)
-        2. [Mock-Up Pages](#Mock-Up-Pages)
-        2. [Utilizing Github Issues](#Utilizing-Github-Issues)
-    2. [Milestone 2](#Milestone-2)
-        2. [Project 2](#Project-2)
+1. [About Manoa Study Hub](#about-manoa-study-hub)
+2. [Development History](#development-history)
+    2. [Milestone 1](#milestone-1)
+        2. [Mock-Up Pages](#mock-up-pages)
+        2. [Utilizing Github Issues](#utilizing-github-issues)
+    2. [Milestone 2](#milestone-2)
+        2. [Project 2](#project-2)
 4. [Team](#Team)
     4. [Goals](#Goals)
     4. [Team Bios](#Team-Bios)
