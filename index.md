@@ -8,7 +8,6 @@
         2. [Mock-Up Pages](#mock-up-pages)
         2. [Utilizing Github Issues](#utilizing-github-issues)
     2. [Milestone 2](#milestone-2)
-        2. [Project 2](#project-2)
 4. [Team](#Team)
     4. [Goals](#Goals)
     4. [Team Bios](#Team-Bios)
