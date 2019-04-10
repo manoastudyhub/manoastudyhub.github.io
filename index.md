@@ -29,49 +29,63 @@ The goals of this Milestone included creating mock up pages, utilizing Github pr
 
 #### Mock-Up Pages
 
-Brief mock ups are provided for the pages that we plan to implement during Milestone 1.
+Mockups for the following pages were created during Milestone 1 and have been deployed to Galaxy:
 
-Landing Page
+<a href="http://manoastudyhub.meteorapp.com/#/">Landing Page</a>
 
-<img class="ui medium left floated image" src="/images/landing-deployment.jpg" width="300">
+<img class="ui medium left floated image" src="/images/landing-deployed.JPG" width="400">
 
-Student Homepage
+<a href="http://manoastudyhub.meteorapp.com/#/signin">Sign In Page </a>
 
-<img class="ui medium left floated image" src="/images/UserHomeMockup.PNG" width="300">
+<img class="ui medium left floated image" src="/images/signin-deployed.JPG" width="400">
 
-Admin Homepage
+<a href="http://manoastudyhub.meteorapp.com/#/signout">Sign Out Page</a>
 
-<img class="ui medium left floated image" src="/images/AdminHomeMockup.PNG" width="300">
+<img class="ui medium left floated image" src="/images/signout-deployed.JPG" width="400">
 
-User Profile Page
+<a href="http://manoastudyhub.meteorapp.com/#/">Student Homepage</a>
 
-<img class="ui medium left floated image" src="/images/userprofilemockup2.PNG" width="400">
+<img class="ui medium left floated image" src="/images/student-home-deployed.JPG" width="400">
 
-Calendar
+<a href="http://manoastudyhub.meteorapp.com/#/">Admin Homepage</a>
 
-<img class="ui medium left floated image" src="/images/calendar.JPG" width="300">
+<img class="ui medium left floated image" src="/images/admin-home-deployed.JPG" width="400">
 
-Create Study Sesh Page
+<a href="http://manoastudyhub.meteorapp.com/#/userPage">User Page</a>
+
+<img class="ui medium left floated image" src="/images/userpage-deployed.JPG" width="400">
+
+<a href="http://manoastudyhub.meteorapp.com/#/userPage">Profile Page</a>
+
+<img class="ui medium left floated image" src="/images/profile-deployed.JPG" width="400">
+
+Calendar - Not yet deployed to Galaxy
+
+<img class="ui medium left floated image" src="/images/calendar.JPG" width="400">
+
+<a href="http://manoastudyhub.meteorapp.com/#/add">Add Study Sesh Page</a>
 
 <img class="ui medium left floated image" src="/images/add-study-sesh-mockup2.JPG" width="400">
 
-Study Sesh Page
+<a href="http://manoastudyhub.meteorapp.com/#/studyList">Study Sesh Page</a>
 
-<img class="ui medium left floated image" src="/images/study-sesh-mockup.JPG" width="400">
+<img class="ui medium left floated image" src="/images/liststudysesh-deployed.JPG" width="400">
 
 #### Utilizing Github Issues
 
-In Milestone 1 we implemented the issues as shown below:
+In Milestone 1 we implemented the <a href="https://github.com/manoastudyhub/code-directory/issues">Github issues</a> as shown below:
 
 <img class="ui medium left floated image" src="/images/milestone1.JPG" width="650">
 
-So far, in Milestone 1, we created and resloved 10 issues that dealt with creating the mockup pages and the basis of our site's collections. These issues were monitored through the "Project M1":
+In Milestone 1, we also created and resloved 13 issues that dealt with creating the mockup pages and the basis of our site's collections. These issues were monitored through the <a href="https://github.com/manoastudyhub/code-directory/projects/1">Project M1</a>:
 
 <img class="ui medium left floated image" src="/images/github-issues-progress.JPG" width="650">
 
-Each Issue was implemented in it's own branch and will be merged with the master:
+Each Issue was implemented in it's own branch and was merged with the master:
 
 <img class="ui medium left floated image" src="/images/github-branches.JPG" width="650">
+
+## Milestone 2
 
 ## Team
 
