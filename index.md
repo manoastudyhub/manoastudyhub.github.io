@@ -3,11 +3,13 @@
 ## Table of Contents
 
 1. [About Manoa Study Hub](#about-manoa-study-hub)
-2. [Development History](#development-history)
-    2. [Milestone 1](#milestone-1)
-        2. [Mock-Up Pages](#mock-up-pages)
-        2. [Utilizing Github Issues](#utilizing-github-issues)
-    2. [Milestone 2](#milestone-2)
+2. [Developer Guide](#developer-guide)
+    2. [Installation](#installation)
+3. [Development History](#development-history)
+    3. [Milestone 1](#milestone-1)
+        3. [Mock-Up Pages](#mock-up-pages)
+        3. [Utilizing Github Issues](#utilizing-github-issues)
+    3. [Milestone 2](#milestone-2)
 4. [Team](#Team)
     4. [Goals](#Goals)
     4. [Team Bios](#Team-Bios)
@@ -15,6 +17,40 @@
 ## About Manoa Study Hub
 
 Manoa Study Hub will eventually provide a platform for students to organize study groups with each other while having in-person interactions in order to work on assignments, projects, or to prepare for tests. 
+
+## Developer Guide
+
+### Installation
+
+1. In order to begin using the application you will need to <a href="https://www.meteor.com/install"> install Meteor </a>
+
+2. Next, you will need to <a href="https://github.com/manoastudyhub/code-directory">download</a> a copy of Manoa Study Hub.
+You should note that you may need to request permission from the authors in order to access the repo.
+
+3. Then, in the command prompt you will need to cd into the app directory (within the code-directory file) and install the Meteor library as follows: 
+    <p>
+      <code> meteor npm install </code>
+    </p>
+ 
+4. After Meteor has been installed, you can then run the application by using:
+    <p>
+      <code>meteor npm run start</code>
+    </p>
+
+5. After the app runs for the first time, it will create some default data and users. The output should look as follows:
+    <p>
+      <img src="/images/meteorfirstrun.JPG" alt="meteor first run image" width="470" height="315">
+    </p>
+    <p>
+      *It is important to note that there is a <b>bcrypt warning</b> which will try to encourage you to use bcrypt. However it is difficult to install bcrypt with Windows operating systems. Bcrypt is unneccesary for the purposes that we are using for so it is okay to just ignore this warning, it will not interfere with the use of the application.
+    </p>
+ 
+6. If there are no errors, the template application will appear at <a href="http://localhost:3000/">http://localhost:3000/</a>. You can then login by using one of the default accounts at <a href="https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json">settings.development.json</a>.
+
+7.You can also use ESLint in the imports directory to check for general errors by using:
+      <code>
+        meteor npm run lint
+      </code>
 
 ## Development History
 
