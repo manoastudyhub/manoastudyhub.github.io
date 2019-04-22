@@ -80,7 +80,9 @@ After clicking on the Add Study Session page on the nav bar you are taken to thi
 
 #### Admin Page
 <img class="ui medium left floated image" src="/images/m2/admin-m2.JPG" width="600">
-After logging in as an admin you are able to view this page which lists all of the upcoming sessions and students. From this page the admin is able to view all of the sessions and will eventually be able to delete them if they wish to. 
+<p>
+After logging in as an admin you are able to view this page which lists all of the upcoming sessions and students. From this page the admin is able to view all of the sessions and will eventually be able to delete them if they wish to.
+</p>
 
 #### Sign Out Page
 <img class="ui medium left floated image" src="/images/m2/signout-m2.JPG" width="600">
