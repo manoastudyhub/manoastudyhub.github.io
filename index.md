@@ -20,6 +20,8 @@
 
 Manoa Study Hub will eventually provide a platform for students to organize study groups with each other in order to work on assignments, projects, or to prepare for tests. We hope that this web application will help students find fellow students and tutors through our create and attend study session features. In addition, this web application will help students keep track of current study sessions as well as other students or tutors they've met in previous or future study sessions.
 
+Manoa Study Hub can be accessed through this [link](http://manoastudyhub.meteorapp.com/#/)
+
 ## User Guide
 
 #### Landing Page
