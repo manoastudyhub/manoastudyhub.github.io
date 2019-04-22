@@ -23,7 +23,7 @@ Manoa Study Hub will eventually provide a platform for students to organize stud
 ## User Guide
 
 #### Landing Page
-<img class="ui left floated image" src="/images/m2/landing-m2.JPG" width="400">
+<img class="ui left floated image" src="/images/m2/landing-m2.JPG" width="500">
 When you first visit our site you are taken to the landing page, where you can read a brief description about Manoa Study Hub as well as some of the functionalities that our site can provide. From this page you are able to use the Login button which presents you with a dropdown menu that allows you to either sign in or sign up for a new account.
 
 #### Sign Up Page
