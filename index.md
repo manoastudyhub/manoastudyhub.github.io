@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [About Manoa Study Hub](#about-manoa-study-hub)
+1. [Overview](#overview)
 2. [Developer Guide](#developer-guide)
     2. [Installation](#installation)
 3. [Development History](#development-history)
@@ -14,9 +14,9 @@
     4. [Goals](#Goals)
     4. [Team Bios](#Team-Bios)
 
-## About Manoa Study Hub
+## Overview
 
-Manoa Study Hub will eventually provide a platform for students to organize study groups with each other while having in-person interactions in order to work on assignments, projects, or to prepare for tests. 
+Manoa Study Hub will eventually provide a platform for students to organize study groups with each other in order to work on assignments, projects, or to prepare for tests. We hope that this web application will help students find fellow students and tutors through our create and attend study session features. In addition, this web application will help students keep track of current study sessions as well as other students or tutors they've met in previous or future study sessions.
 
 ## Developer Guide
 
