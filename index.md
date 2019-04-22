@@ -23,15 +23,15 @@ Manoa Study Hub will eventually provide a platform for students to organize stud
 ## User Guide
 
 #### Landing Page
-<img class="ui medium left floated image" src="/images/landing-m2.JPG" width="400">
-<img class="ui medium left floated image" src="/images/signin-m2.JPG" width="400">
+<img class="ui medium left floated image" src="/images/m2/landing-m2.JPG" width="400">
+<img class="ui medium left floated image" src="/images/m2/signin-m2.JPG" width="400">
 <img class="ui medium left floated image" src="/images/userlanding-m2.JPG" width="400">
-<img class="ui medium left floated image" src="/images/userpage-m2.JPG" width="400">
-<img class="ui medium left floated image" src="/images/profile-m2.JPG" width="400">
-<img class="ui medium left floated image" src="/images/calendar-m2.JPG" width="400">
-<img class="ui medium left floated image" src="/images/liststudysession-m2.JPG" width="400">
-<img class="ui medium left floated image" src="/images/addstudysession-m2.JPG" width="400">
-<img class="ui medium left floated image" src="/images/signout-m2.JPG" width="400">
+<img class="ui medium left floated image" src="/images/m2/userpage-m2.JPG" width="400">
+<img class="ui medium left floated image" src="/images/m2/profile-m2.JPG" width="400">
+<img class="ui medium left floated image" src="/images/m2/calendar-m2.JPG" width="400">
+<img class="ui medium left floated image" src="/images/m2/liststudysession-m2.JPG" width="400">
+<img class="ui medium left floated image" src="/images/m2/addstudysession-m2.JPG" width="400">
+<img class="ui medium left floated image" src="/images/m2/signout-m2.JPG" width="400">
 
 ## Developer Guide
 
