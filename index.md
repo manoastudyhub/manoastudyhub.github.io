@@ -10,6 +10,7 @@
         3. [Mock-Up Pages](#mock-up-pages)
         3. [Utilizing Github Issues](#utilizing-github-issues)
     3. [Milestone 2](#milestone-2)
+    3. [Milestone 3](#milestone-3)
 4. [Team](#Team)
     4. [Goals](#Goals)
     4. [Team Bios](#Team-Bios)
@@ -128,7 +129,7 @@ Our work on Milestone 2 started on 4/8 and finished on 4/21. Here is our [M2 pro
 
 <img class="ui medium left floated image" src="/images/m2.png" width="650">
 
-### Milestone 2
+### Milestone 3
     
 Our work on Milestone 2 started on 4/21 and is still in progress. So far we have created a [M3 project](https://github.com/manoastudyhub/code-directory/projects/3) which contains all of the issues we'll be working on for Milestone 3.
 
