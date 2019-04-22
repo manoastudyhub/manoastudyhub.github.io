@@ -192,7 +192,7 @@ Each Issue was implemented in it's own branch and was merged with the master:
     
 Our work on Milestone 2 started on 4/8 and finished on 4/21. Here is our [M2 project](https://github.com/manoastudyhub/code-directory/projects/2) which contains all of the issues we worked on for Milestone 2.
 
-<img class="ui medium left floated image" src="/images/m2.png" width="650">
+<img class="ui medium left floated image" src="/images/m2done.png" width="650">
 
 ### Milestone 3
     
