@@ -78,6 +78,10 @@ After clicking on the Study Sessions page option on the nav bar you are taken to
 After clicking on the Add Study Session page on the nav bar you are taken to this page. On this page you are able to fill out all of the fields that provide information about the study session you are creating. These fields include first name, last name, created by, date, location, and the course. After filling out all of the fields you can then use the submit button which will then create an alert telling you that your session has been added if all of the information was added correctly.
 </p>
 
+#### Admin Page
+<img class="ui medium left floated image" src="/images/m2/admin-m2.JPG" width="600">
+After logging in as an admin you are able to view this page which lists all of the upcoming sessions and students. From this page the admin is able to view all of the sessions and will eventually be able to delete them if they wish to. 
+
 #### Sign Out Page
 <img class="ui medium left floated image" src="/images/m2/signout-m2.JPG" width="600">
 <p>
