@@ -24,13 +24,29 @@ Manoa Study Hub will eventually provide a platform for students to organize stud
 
 #### Landing Page
 <img class="ui medium left floated image" src="/images/m2/landing-m2.JPG" width="400">
+
+#### Sign In Page
 <img class="ui medium left floated image" src="/images/m2/signin-m2.JPG" width="400">
-<img class="ui medium left floated image" src="/images/userlanding-m2.JPG" width="400">
+
+#### User Landing Page
+<img class="ui medium left floated image" src="/images/m2/userlanding-m2.JPG" width="400">
+
+#### User Page 
 <img class="ui medium left floated image" src="/images/m2/userpage-m2.JPG" width="400">
+
+#### Profile Page
 <img class="ui medium left floated image" src="/images/m2/profile-m2.JPG" width="400">
+
+#### Calendar Page
 <img class="ui medium left floated image" src="/images/m2/calendar-m2.JPG" width="400">
+
+#### List Study Sessions Page
 <img class="ui medium left floated image" src="/images/m2/liststudysession-m2.JPG" width="400">
+
+#### Add Study Session Page
 <img class="ui medium left floated image" src="/images/m2/addstudysession-m2.JPG" width="400">
+
+#### Sign Out Page
 <img class="ui medium left floated image" src="/images/m2/signout-m2.JPG" width="400">
 
 ## Developer Guide
