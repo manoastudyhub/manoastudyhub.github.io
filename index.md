@@ -3,21 +3,35 @@
 ## Table of Contents
 
 1. [Overview](#overview)
-2. [Developer Guide](#developer-guide)
-    2. [Installation](#installation)
-3. [Development History](#development-history)
-    3. [Milestone 1](#milestone-1)
-        3. [Mock-Up Pages](#mock-up-pages)
-        3. [Utilizing Github Issues](#utilizing-github-issues)
-    3. [Milestone 2](#milestone-2)
-    3. [Milestone 3](#milestone-3)
-4. [Team](#Team)
-    4. [Goals](#Goals)
-    4. [Team Bios](#Team-Bios)
+2. [User Guide](#user-guide)
+3. [Developer Guide](#developer-guide)
+    3. [Installation](#installation)
+4. [Development History](#development-history)
+    4. [Milestone 1](#milestone-1)
+        4. [Mock-Up Pages](#mock-up-pages)
+        4. [Utilizing Github Issues](#utilizing-github-issues)
+    4. [Milestone 2](#milestone-2)
+    4. [Milestone 3](#milestone-3)
+5. [Team](#Team)
+    5. [Goals](#Goals)
+    5. [Team Bios](#Team-Bios)
 
 ## Overview
 
 Manoa Study Hub will eventually provide a platform for students to organize study groups with each other in order to work on assignments, projects, or to prepare for tests. We hope that this web application will help students find fellow students and tutors through our create and attend study session features. In addition, this web application will help students keep track of current study sessions as well as other students or tutors they've met in previous or future study sessions.
+
+## User Guide
+
+#### Landing Page
+<img class="ui medium left floated image" src="/images/landing-m2.JPG" width="400">
+<img class="ui medium left floated image" src="/images/signin-m2.JPG" width="400">
+<img class="ui medium left floated image" src="/images/userlanding-m2.JPG" width="400">
+<img class="ui medium left floated image" src="/images/userpage-m2.JPG" width="400">
+<img class="ui medium left floated image" src="/images/profile-m2.JPG" width="400">
+<img class="ui medium left floated image" src="/images/calendar-m2.JPG" width="400">
+<img class="ui medium left floated image" src="/images/liststudysession-m2.JPG" width="400">
+<img class="ui medium left floated image" src="/images/addstudysession-m2.JPG" width="400">
+<img class="ui medium left floated image" src="/images/signout-m2.JPG" width="400">
 
 ## Developer Guide
 
