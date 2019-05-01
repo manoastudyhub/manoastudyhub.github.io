@@ -13,9 +13,10 @@
         4. [Utilizing Github Issues](#utilizing-github-issues)
     4. [Milestone 2](#milestone-2)
     4. [Milestone 3](#milestone-3)
-5. [Team](#Team)
-    5. [Goals](#Goals)
-    5. [Team Bios](#Team-Bios)
+5. [Community Feedback](#community-feedback)
+6. [Team](#Team)
+    6. [Goals](#Goals)
+    6. [Team Bios](#Team-Bios)
 
 ## Overview
 
@@ -182,7 +183,7 @@ Mockups for the following pages were created during Milestone 1 and have been de
 
 <img class="ui medium left floated image" src="/images/profile-deployed.JPG" width="400">
 
-Calendar - Not yet deployed to Galaxy
+Calendar
 
 <img class="ui medium left floated image" src="/images/calendar.JPG" width="400">
 
@@ -216,9 +217,13 @@ Our work on Milestone 2 started on 4/8 and finished on 4/21. Here is our [M2 pro
 
 ### Milestone 3
     
-Our work on Milestone 2 started on 4/21 and is still in progress. So far we have created a [M3 project](https://github.com/manoastudyhub/code-directory/projects/3) which contains all of the issues we'll be working on for Milestone 3.
+Our work on Milestone 2 started on 4/21 and finished on 5/1. Here is our [M3 project](https://github.com/manoastudyhub/code-directory/projects/3) which contains all of the issues worked on for Milestone 3.
 
 <img class="ui medium left floated image" src="/images/m3.png" width="650">
+
+## Community Feedback
+
+
 
 ## Team
 
