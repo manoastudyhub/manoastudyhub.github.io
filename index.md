@@ -5,7 +5,7 @@
 1. [Overview](#overview)
 2. [User Guide](#user-guide)
 3. [Developer Guide](#developer-guide)
-    3. [Installation & Running the System](#installation-&-running-the-system)
+    3. [Installation](#installation)
     3. [Modifying the System](#modifying-the-system)
 4. [Development History](#development-history)
     4. [Milestone 1](#milestone-1)
@@ -22,6 +22,7 @@
 A common problem in our technology driven era can often be a lack of face to face communication among students and their peers. Let's face it- it can be hard to ask for help in a room full of people who all seem to know what they're doing, but our application Manoa Study Hub, provides a solution to this often intimidating situation. Manoa Study Hub provides a platform for students to organize study groups with each other in order to work on assignments, projects, or to prepare for tests. This web application will help students to find other students to collaborate with by utilizing our create and attend study session features. In addition, this web application can help students keep track of their past, current, and future study sessions as well as keep track of other students or tutors that they may have met at those study sessions.
 
 Manoa Study Hub can be accessed through this [link](http://manoastudyhub.meteorapp.com/#/).
+Our GitHub organization can be found [here](https://github.com/manoastudyhub).
 
 ## User Guide
 
@@ -93,8 +94,9 @@ Upon clicking on the email of the user that is logged in you are given a drop do
 
 ## Developer Guide
 
-### Installation & Running the System
+### Installation
 
+The following steps will walk you through installing and running the application locally.
 1. In order to begin using the application you will need to <a href="https://www.meteor.com/install"> install Meteor </a>
 
 2. Next, you will need to <a href="https://github.com/manoastudyhub/code-directory">download</a> a copy of Manoa Study Hub.
@@ -127,7 +129,14 @@ You should note that you may need to request permission from the authors in orde
 
 ### Modifying the System
 
+Should you wish to modify the system and make your own changes you can follow the steps below to guide you through the process that we used while developing this application. The framework that our group used while developing this website followed the [issue driven project management guidelines (IDPM)](http://courses.ics.hawaii.edu/ics314s19-3/morea/project-management/reading-guidelines-idpm.html).
 
+To begin each change that we planned to implement, we first needed to create a new 'issue' on the GitHub repository that contained our project code under the 'issues' tab. The issue should be labled with the the corresponding number issue that we are working on such as issue-1 or issue-2 etc. It should then be assigned to someone who has agreed to complete the task.
+<img class="ui medium left floated image" src="/images/github-issue.JPG" width="400"> 
+
+After we created our issue, we would then go to our 'Code' tab on GitHub and create a branch off of the most updated branch (usually the master). From there we would then deploy to GitHub Desktop by using the 'Clone or download' button and selecting the 'Open in desktop' option. This should effectively bring up the GitHub Desktop application which can be downloaded [here](https://desktop.github.com/). Once you are on GitHub desktop, you should check that the branch that you have created is the same as the current branch listed at the top of the application. Leave this window open. Next you can open IntelliJ to begin making changes to the code and resolving the issue that was created. Once the issue has been resolved you should then go back to GitHub Desktop and write a short summary of the changes that were made in the text box labeled 'Summary (required)'. Then, can commit the changes by utilizing the button 'Commit to issue-2' with the issue name corresponding to the issue that you were working on. After a brief loading period you can then push the changes to GitHub. After pushing the changes you can then check the web version of GitHub to ensure that your changes have been added and saved to GitHub. 
+
+Since we were working in a group, after a reasonable amount of work was completed it was necessary to merge all of our work together to have all of the changes that we made in one place so that we could have all of the updated functionalities of our application. Some brief instructions for merging can be found [here](https://help.github.com/en/articles/merging-an-upstream-repository-into-your-fork).
 
 ## Development History
 
