@@ -228,13 +228,23 @@ Our work on Milestone 2 started on 4/21 and finished on 5/1. Here is our [M3 pro
 Elizabeth Wongchiu: University of Hawaii at Manoa international exchange student
 1. Likes: 
     1. The simplicity of the layout
-    1. Clear and easy to understand/navigate
+    2. Clear and easy to understand/navigate
 2. Improvements:
-    2. Adding a time for the study session
+    1. Adding a time for the study session
     2. A maximum number of study members
-    2. Know how many signed up
+    3. Know how many signed up
 3. Comments:
-    3. It's cool how you can personalize it
+    1. It's cool how you can personalize it
+    
+Radford Leong: University of Hawaii at Manoa MIS Business Student
+1. Likes: 
+    1. Easy to use and navigate
+    2. Calendar makes sessions easy to see
+2. Improvements:
+    1. Redirect after editing profile
+    2. Looks odd if no study sessions/people are showing on home page
+3. Comments:
+    1. White text can be difficult to read on light blue background
     
 ## Team
 
