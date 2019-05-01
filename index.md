@@ -69,7 +69,7 @@ On the edit profile page the form will be filled out with the current informatio
 <img class="ui medium left floated image" src="/images/m3/calendar-m3.JPG" width="600">
 <p>
 After clicking on the Calendar page option on the nav bar you are taken to this page. On this page you are able to view a calendar which will show the previous, current, and upcoming study sessions. You are able to utilize the buttons at the top of the page to toggle the weekends and to view the sessions that are listed. There are also buttons that allow you to see different views of the calendar by month, week, or day as well as previous or future months. You can also click on a date to add a study session which will pop up a confirmation window.
-</p>
+</p> 
 
 #### List Study Sessions Page
 <img class="ui medium left floated image" src="/images/m3/liststudysessions-m3.JPG" width="600">
