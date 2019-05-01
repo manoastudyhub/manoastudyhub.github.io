@@ -28,67 +28,81 @@ Our GitHub organization can be found [here](https://github.com/manoastudyhub).
 ## User Guide
 
 #### Landing Page
-<img class="ui left floated image" src="/images/m2/landing-m2.JPG" width="600">
+<img class="ui left floated image" src="/images/m3/landing-m3.JPG" width="600">
 <p>
 When you first visit our site you are taken to the landing page, where you can read a brief description about Manoa Study Hub as well as some of the functionalities that our site can provide. From this page you are able to use the Login button which presents you with a dropdown menu that allows you to either sign in or sign up for a new account.
 </p>
 
 #### Sign Up Page
-<img class="ui medium left floated image" src="/images/m2/signup-m2.JPG" width="600">
+<img class="ui medium left floated image" src="/images/m3/signup-m3.JPG" width="600">
 <p>
-After clicking the Login button on the landing page, if you selected the option to sign up- this is the page you would be rerouted to. On this page you are able to enter your preferred email address as well as a password and submit when you have completed inputting your registration information. If you realize that you already have an account with us you are able to use the "Login here" option which would then reroute you to the sign in page.
+After clicking the Login button on the landing page, if you selected the option to sign up- this is the page you would be rerouted to. On this page you are able to enter some general information about yourself such as your preferred email address as well as a password, first name, last name, class standing, image for you profile, major, subjects you're taking courses in, a description about yourself, and indicate if you are a tutor or not and a submit button for when you have completed your registration information. If you realize that you already have an account with us you are able to use the "Login here" option which would then reroute you to the sign in page.
 </p>
 
 #### Sign In Page
-<img class="ui medium left floated image" src="/images/m2/signin-m2.JPG" width="600">
+<img class="ui medium left floated image" src="/images/m3/signin-m3.JPG" width="600">
 <p>
 After clicking the Login button on the landing page, if you selected the option to sign in- this is the page you would be rereouted to. On this page you are able to enter the information of the existing account that you previously created, which would include your email and password. After you may click the "submit" button to proceed into the main site. If you suddenly realize that you did not have a pre-existing account with us you are able to use the "Click Here to Register" option which would then reroute you to the sign up page.
 </p>
 
 #### User Home Page
-<img class="ui medium left floated image" src="/images/m2/userlanding-m2.JPG" width="600">
+<img class="ui medium left floated image" src="/images/m3/userhome2-m3.JPG" width="600">
 <p>
-After successfully signing in or signing up you are taken to the user home page which looks similar to the intitial landing page- however it now comes equipped with a navigation bar and shows the email of the user who is logged in. The nav bar has options of other pages to be reouted to which include: the User Page, Profile page, Calendar page, Study Sessions page, Add Study Session page, as well as the "Manoa Study Hub" words which double as a link back to the user home page (this page) from any of the other pages, and the email of the user who is logged in which- when clicked provides the option to log out. This page also gives a brief overview of the site as well as gives information on some of the functionalities of the site.
-</p>
-
-#### User Page 
-<img class="ui medium left floated image" src="/images/m2/userpage-m2.JPG" width="600">
-<p>
-After clicking on the User Page option on the nav bar you are taken to this page. At the top of this page you can view the main components of the site which include the "My Profile", "My Calendar", and "My Study Sessions" pages which are buttons that will reroute you to their respective pages. It also allows you to view the upcoming study sessions in a list format with a view session button that will allow a popup window to show the card of more in-depth detail about the study session. It also has a category to show the other students who are planning on attending which will likely be equipped with a button to view the profiles of the other students in the future.
+After successfully signing in or signing up you are taken to the user home page which comes equipped with a navigation bar and shows the email of the user who is logged in. The nav bar has options of other pages to be reouted to which include: the Profile page, Calendar page, Study Sessions page, Add Study Session page, as well as the "Manoa Study Hub" words which double as a link back to the user home page (this page) from any of the other pages. The email of the user who is logged in is also visible in the upper right hand corner which, when clicked provides the option to log out. 
+    
+At the top of this page you can view the main components of the site which include the "My Profile", "My Calendar", and "My Study Sessions" pages which are buttons that will reroute you to their respective pages. It also allows you to view your study sessions that you have indicated that you intend to attend in a list format as well as a list of study sessions with your major or subjects that you may also be interested in. These lists also come equipped with a view session button for each session listed that creates a popup window to show the card with more in-depth detail about the study session. It also has a section to show the profile cards of other students that have the same major as you as well as a section to show you the cards of other students whoa re taking similar subjects as you. These profile cards also have view profile buttons that can be used to be rerouted to the respective students profile page.
 </p>
 
 #### Profile Page
-<img class="ui medium left floated image" src="/images/m2/profile-m2.JPG" width="600">
+<img class="ui medium left floated image" src="/images/m3/profile-m3.JPG" width="600">
 <p>
-After clicking on the Profile page option on the nav bar you are taken to this page. This page shows the profile of the user who is logged in which includes details like their name, major, class standing, subjects, and a description about themselves. It should eventually be equipped with an edit button to allow the user to make changes.
+After clicking on the Profile page option on the nav bar you are taken to this page. This page shows the profile of the user who is logged in. It includes details like the users name, major, class standing, subjects, a description about themselves, and an edit profile button. If you click on the edit profile button you are then rerouted to the edit profile page. 
+</p>
+
+<img class="ui medium left floated image" src="/images/m3/editprofile-m3.JPG" width="600">
+
+<p>
+On the edit profile page the form will be filled out with the current information and you are able to edit different aspects of your profile such as: the image, major, class standing, subjects, and description. It is also equipped with a submit button, which when clicked and if the form is filled out adequately you will receive a confirmation alert at the top of the screen.
 </p>
 
 #### Calendar Page
-<img class="ui medium left floated image" src="/images/m2/calendar-m2.JPG" width="600">
+<img class="ui medium left floated image" src="/images/m3/calendar-m3.JPG" width="600">
 <p>
-After clicking on the Calendar page option on the nav bar you are taken to this page. On this page you are able to view a calendar which will show the previous, current, and upcoming study sessions. You are able to utilize the buttons at the top of the page to see different views of the calendar by month, week, or day as well as previous or future months. You can also click on a day to add a study session which will pop up a confirmation window.
+After clicking on the Calendar page option on the nav bar you are taken to this page. On this page you are able to view a calendar which will show the previous, current, and upcoming study sessions. You are able to utilize the buttons at the top of the page to toggle the weekends and to view the sessions that are listed. There are also buttons that allow you to see different views of the calendar by month, week, or day as well as previous or future months. You can also click on a date to add a study session which will pop up a confirmation window.
 </p>
 
 #### List Study Sessions Page
-<img class="ui medium left floated image" src="/images/m2/liststudysession-m2.JPG" width="600">
+<img class="ui medium left floated image" src="/images/m3/liststudysessions-m3.JPG" width="600">
 <p>
-After clicking on the Study Sessions page option on the nav bar you are taken to this page. On this page you are able to view the cards of study sessions that have already been created. You are able to view all of the information that you should need in order to decide whether or not you wish to attend this study session. Should you choose to attend, you can use the attend button which will then give you an alert at the top of the screen which states that your session has been added to the sessions that you plan on attending. There is also an option to allow the user to edit the sessions that they have created. Upon clicking the edit button you are rereouted to the edit study session page which which will be filled out with the previously added information that you are able to edit. After hitting the submit button your changes are added and an alert tells you that your updates have been made.
+After clicking on the Study Sessions page option on the nav bar you are taken to this page. On this page you are able to view the cards of study sessions that have already been created. You are able to view all of the information that you should need in order to decide whether or not you wish to attend this study session. Should you choose to attend, you can use the attend button which will then give you an alert at the top of the screen which states that your session has been added to the list of sessions that you plan on attending. 
+</p>
+
+<img class="ui medium left floated image" src="/images/m3/editstudysession-m3.JPG" width="600">
+
+<p>
+If you are the creator of the session there will also an option to allow the user to edit the sessions that they have created. Upon clicking the edit button you are rereouted to the edit study session page which which will be filled out with the previously added information that you are able to edit. After hitting the submit button your changes are added and an alert tells you that your updates have been made.
 </p>
 
 #### Add Study Session Page
-<img class="ui medium left floated image" src="/images/m2/addstudysession-m2.JPG" width="600">
+<img class="ui medium left floated image" src="/images/m3/addstudysession-m3.JPG" width="600">
 <p>
-After clicking on the Add Study Session page on the nav bar you are taken to this page. On this page you are able to fill out all of the fields that provide information about the study session you are creating. These fields include first name, last name, created by, date, location, and the course. After filling out all of the fields you can then use the submit button which will then create an alert telling you that your session has been added if all of the information was added correctly.
+After clicking on the Add Study Session page on the nav bar you are taken to this page. On this page you are able to fill out all of the fields that provide information about the study session you are creating. These fields include first name, last name, date, location, description, the course and the course number. After filling out all of the fields you can then use the submit button which will then create an alert telling you that your session has been added if all of the information was filled out correctly.
 </p>
 
-#### Admin Page
-<img class="ui medium left floated image" src="/images/m2/admin-m2.JPG" width="600">
+#### Admin Landing Page
+<img class="ui medium left floated image" src="/images/m3/adminlanding-m3.JPG" width="600">
 <p>
-After logging in as an admin you are able to view this page which lists all of the upcoming sessions and students. From this page the admin is able to view all of the sessions and will eventually be able to delete them if they wish to.
+After logging in as an admin you are able to view this page which lists all of the upcoming sessions and students. From this page the admin is able to view the session with the corresponding button and are able to delete them if they wish to.
+</p>
+
+#### Admin Study List Page
+<img class="ui medium left floated image" src="/images/m3/adminstudylist-m3.JPG" width="600">
+<p>
+After logging in as an admin you are able to view this page which lists all of the upcoming sessions. The study session cards are also equipped with buttons to view attendees, edit, and delete.
 </p>
 
 #### Sign Out Page
-<img class="ui medium left floated image" src="/images/m2/signout-m2.JPG" width="600">
+<img class="ui medium left floated image" src="/images/m3/signout-m3.JPG" width="600">
 <p>
 Upon clicking on the email of the user that is logged in you are given a drop down window that gives you the option to log out, which when clicked will reroute you to this page after you have successfully logged out.
 </p>
