@@ -273,7 +273,8 @@ Garrison Hiramatsu: University of Hawaii at Manoa Interdisciplinary Studies-Educ
     1. The overall website has a very warm and welcoming ambiance. It is also helpful to know about other students studying the same subject, information to any relevant sessions, and a calendar to help you keep track of the different study sessions sign up for. 
 2. Improvements: 
     1. I do not see a section where I would be able to message people individually. It would be helpful if the user would be able to message other students individually to talk about their session or anything else they wish to. But if that feature is present, then I have no improvements.
-3. Comments: This sounds like a website that would be extremely useful and can help save time and student’s education.
+3. Comments: 
+    1. This sounds like a website that would be extremely useful and can help save time and student’s education.
     
 ## Team
 
