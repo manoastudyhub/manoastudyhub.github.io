@@ -227,13 +227,13 @@ Each Issue was implemented in it's own branch and was merged with the master:
 
 ### Milestone 2
     
-Our work on Milestone 2 started on 4/8 and finished on 4/21. Here is our [M2 project](https://github.com/manoastudyhub/code-directory/projects/2) which contains all of the issues we worked on for Milestone 2.
+Our work on Milestone 2 started on 4/8 and finished on 4/21. Here is our [M2 project](https://github.com/manoastudyhub/code-directory/projects/2) which contains all of the issues we worked on for Milestone 2. All of the issues and their corresponding branches were merged with the master.
 
 <img class="ui medium left floated image" src="/images/m2done.png" width="650">
 
 ### Milestone 3
     
-Our work on Milestone 2 started on 4/21 and finished on 5/1. Here is our [M3 project](https://github.com/manoastudyhub/code-directory/projects/3) which contains all of the issues worked on for Milestone 3.
+Our work on Milestone 2 started on 4/21 and finished on 5/1. Here is our [M3 project](https://github.com/manoastudyhub/code-directory/projects/3) which contains all of the issues worked on for Milestone 3. All of the issues and their corresponding branches were merged with the master.
 
 <img class="ui medium left floated image" src="/images/m3/github-issues-m3.JPG" width="650">
 
