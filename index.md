@@ -223,7 +223,8 @@ Our work on Milestone 2 started on 4/21 and finished on 5/1. Here is our [M3 pro
 
 ## Community Feedback
 
-
+Elizabeth Warren: University of Hawaii at Manoa international exchange student
+- notes
 
 ## Team
 
