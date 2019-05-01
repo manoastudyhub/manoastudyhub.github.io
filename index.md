@@ -260,6 +260,14 @@ Radford Leong: University of Hawaii at Manoa MIS Business Student
 3. Comments:
     1. White text can be difficult to read on light blue background
     
+Cameron MacDonald: University of Hawaii at Manoa Geology Student
+1. Likes: 
+    1. Site Layout
+    2. Add user and add Study session work well
+2. Improvements:
+    1. Upload Image without text field
+    2. Contact other Students
+    
 ## Team
 
 ### Goals
