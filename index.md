@@ -5,7 +5,8 @@
 1. [Overview](#overview)
 2. [User Guide](#user-guide)
 3. [Developer Guide](#developer-guide)
-    3. [Installation](#installation)
+    3. [Installation & Running the System](#installation-&-running-the-system)
+    3. [Modifying the System](#modifying-the-system)
 4. [Development History](#development-history)
     4. [Milestone 1](#milestone-1)
         4. [Mock-Up Pages](#mock-up-pages)
@@ -18,7 +19,7 @@
 
 ## Overview
 
-Manoa Study Hub will eventually provide a platform for students to organize study groups with each other in order to work on assignments, projects, or to prepare for tests. We hope that this web application will help students find fellow students and tutors through our create and attend study session features. In addition, this web application will help students keep track of current study sessions as well as other students or tutors they've met in previous or future study sessions.
+A common problem in our technology driven era can often be a lack of face to face communication among students and their peers. Let's face it- it can be hard to ask for help in a room full of people who all seem to know what they're doing, but our application Manoa Study Hub, provides a solution to this often intimidating situation. Manoa Study Hub provides a platform for students to organize study groups with each other in order to work on assignments, projects, or to prepare for tests. This web application will help students to find other students to collaborate with by utilizing our create and attend study session features. In addition, this web application can help students keep track of their past, current, and future study sessions as well as keep track of other students or tutors that they may have met at those study sessions.
 
 Manoa Study Hub can be accessed through this [link](http://manoastudyhub.meteorapp.com/#/).
 
@@ -92,7 +93,7 @@ Upon clicking on the email of the user that is logged in you are given a drop do
 
 ## Developer Guide
 
-### Installation
+### Installation & Running the System
 
 1. In order to begin using the application you will need to <a href="https://www.meteor.com/install"> install Meteor </a>
 
@@ -123,6 +124,10 @@ You should note that you may need to request permission from the authors in orde
       <code>
         meteor npm run lint
       </code>
+
+### Modifying the System
+
+
 
 ## Development History
 
