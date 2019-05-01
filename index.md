@@ -268,6 +268,17 @@ Cameron MacDonald: University of Hawaii at Manoa Geology Student
     1. Upload Image without text field
     2. Contact other Students
     
+Matthew Iseri: University of Hawaii at Manoa Civil Engineer
+1. Likes: 
+    1. Homepage layout is clear
+    2. Profile and session boxes make information easy to see
+    3. Search bar is convenient to search for specific course
+2. Improvements: 
+    1. Everything should not be blue (inside calendar and Profile page)
+    2. After editing and submiting changes it should rereoute you back to the main pages not just stay on the edit pages.
+3. Comments:
+    1. Layout of the website is clear with minor details that should be improved (as listed above).
+    
 Garrison Hiramatsu: University of Hawaii at Manoa Interdisciplinary Studies-Educational Psychology Student
 1. Likes:
     1. The overall website has a very warm and welcoming ambiance. It is also helpful to know about other students studying the same subject, information to any relevant sessions, and a calendar to help you keep track of the different study sessions sign up for. 
