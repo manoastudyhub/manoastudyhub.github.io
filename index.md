@@ -235,7 +235,7 @@ Our work on Milestone 2 started on 4/8 and finished on 4/21. Here is our [M2 pro
     
 Our work on Milestone 2 started on 4/21 and finished on 5/1. Here is our [M3 project](https://github.com/manoastudyhub/code-directory/projects/3) which contains all of the issues worked on for Milestone 3.
 
-<img class="ui medium left floated image" src="/images/m3.png" width="650">
+<img class="ui medium left floated image" src="/images/m3/github-issues-m3.JPG" width="650">
 
 ## Community Feedback
 
