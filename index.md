@@ -225,9 +225,17 @@ Our work on Milestone 2 started on 4/21 and finished on 5/1. Here is our [M3 pro
 
 ## Community Feedback
 
-Elizabeth Warren: University of Hawaii at Manoa international exchange student
-- notes
-
+Elizabeth Wongchiu: University of Hawaii at Manoa international exchange student
+1. Likes: 
+    1. The simplicity of the layout
+    1. Clear and easy to understand/navigate
+2. Improvements:
+    2. Adding a time for the study session
+    2. A maximum number of study members
+    2. Know how many signed up
+3. Comments:
+    3. It's cool how you can personalize it
+    
 ## Team
 
 ### Goals
