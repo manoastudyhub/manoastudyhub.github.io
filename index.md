@@ -74,7 +74,7 @@ After clicking on the Calendar page option on the nav bar you are taken to this 
 #### List Study Sessions Page
 <img class="ui medium left floated image" src="/images/m3/liststudysessions-m3.JPG" width="600">
 <p>
-After clicking on the Study Sessions page option on the nav bar you are taken to this page. On this page you are able to view the cards of study sessions that have already been created. You are able to view all of the information that you should need in order to decide whether or not you wish to attend this study session. Should you choose to attend, you can use the attend button which will then give you an alert at the top of the screen which states that your session has been added to the list of sessions that you plan on attending. 
+After clicking on the Study Sessions page option on the nav bar you are taken to this page. On this page you are able to view the cards of study sessions that have already been created. You are able to view all of the information that you should need in order to decide whether or not you wish to attend this study session. Should you choose to attend, you can use the attend button which will then give you an alert at the top of the screen which states that your session has been added to the list of sessions that you plan on attending. This page is also equipped with a dropdown search bar where you can select and search for the courses that you would like to view the study sessions for. You are also able to delete the courses in the search bar that you no longer what to search for.
 </p>
 
 <img class="ui medium left floated image" src="/images/m3/editstudysession-m3.JPG" width="600">
