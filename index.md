@@ -227,14 +227,14 @@ Our work on Milestone 2 started on 4/21 and finished on 5/1. Here is our [M3 pro
 
 Elizabeth Wongchiu: University of Hawaii at Manoa international exchange student
 1. Likes: 
-...The simplicity of the layout
-... Clear and easy to understand/navigate
+    1. The simplicity of the layout
+    1. Clear and easy to understand/navigate
 2. Improvements:
-...Adding a time for the study session
-...A maximum number of study members
-...Know how many signed up
+    2. Adding a time for the study session
+    2. A maximum number of study members
+    2. Know how many signed up
 3. Comments:
-...It's cool how you can personalize it
+    3. It's cool how you can personalize it
     
 ## Team
 
